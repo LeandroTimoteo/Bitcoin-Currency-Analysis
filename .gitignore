@@ -1,0 +1,8 @@
+.venv/
+.logs/
+.vscode/
+Documentos/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
