@@ -1,5 +1,11 @@
 # Bitcoin Currency Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-charts-3F4F75?logo=plotly&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/LeandroTimoteo/Bitcoin-Currency-Analysis)
+![Stars](https://img.shields.io/github/stars/LeandroTimoteo/Bitcoin-Currency-Analysis?style=social)
+
 An exchange-style **crypto dashboard** built with **Streamlit**. It shows real-time market snapshots, fiat conversions, and candlestick charts.
 
 ## Features
@@ -10,6 +16,13 @@ An exchange-style **crypto dashboard** built with **Streamlit**. It shows real-t
 - Binance-style dark UI
 - Candlestick chart (Plotly)
 - Auto-refresh toggle
+
+## Screenshots
+
+Add screenshots to `assets/screenshots/` and keep the filenames below (or update the paths):
+
+![Dashboard](assets/screenshots/dashboard.png)
+![Candlestick chart](assets/screenshots/chart.png)
 
 ## Tech Stack
 
