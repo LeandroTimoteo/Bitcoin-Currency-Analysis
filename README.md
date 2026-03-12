@@ -80,8 +80,14 @@ streamlit run .\Scripts\app.py --server.address 127.0.0.1 --server.port 8502
 - 💼 [LinkedIn](https://linkedin.com/in/leandro-timóteo-ads)  
 - 📱 [WhatsApp](https://wa.me/5583987830223)
 
-## Screenshots
+## 🚀 Live Demo
 
+Access the interactive dashboard hosted on Streamlit Cloud:
+
+👉 [Bitcoin Currency Analysis](https://bitcoin-analysis.streamlit.app/)
+
+
+## Screenshots
 Add screenshots to `assets/screenshots/` and keep the filenames below (or update the paths):
 
 ![Dashboard](assets/screenshots/captura_btc.png)
