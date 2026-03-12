@@ -17,13 +17,6 @@ An exchange-style **crypto dashboard** built with **Streamlit**. It shows real-t
 - Candlestick chart (Plotly)
 - Auto-refresh toggle
 
-## Screenshots
-
-Add screenshots to `assets/screenshots/` and keep the filenames below (or update the paths):
-
-![Dashboard](assets/screenshots/dashboard.png)
-![Candlestick chart](assets/screenshots/chart.png)
-
 ## Tech Stack
 
 - Python
@@ -81,8 +74,15 @@ streamlit run .\Scripts\app.py --server.address 127.0.0.1 --server.port 8502
 
 ## 👨‍💻 Author
 
-Leandro Timóteo Silva — Systems Analyst
+# Leandro Timóteo Silva — Systems Analyst/Software Engineering
 
-- 📧 E-mail: leandrinhots6@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/leandro-timóteo-ads  
-- 📱 WhatsApp: 83987830223
+- 📧 [E-mail](mailto:leandrinhots6@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/leandro-timóteo-ads)  
+- 📱 [WhatsApp](https://wa.me/5583987830223)
+
+## Screenshots
+
+Add screenshots to `assets/screenshots/` and keep the filenames below (or update the paths):
+
+![Dashboard](assets/screenshots/captura_btc.png)
+
